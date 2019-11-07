@@ -43,6 +43,10 @@ when you initialise the ADR log.
     superceded by the new ADR.  It then opens the new ADR in your
     editor of choice.
     
+    To generate a table of contents for all ADRs, 
+
+        adr generate toc    
+    
 3. For further information, use the built in help:
 
         adr help
